@@ -1,0 +1,16 @@
+# Node
+ims-frontend/node_modules/
+ims-frontend/dist/
+ims-frontend/.vite/
+
+# Java
+ims-backend/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
